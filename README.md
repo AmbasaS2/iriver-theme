@@ -5,7 +5,7 @@
 - **12 color palettes** — 7 light / 5 dark
 - **2 dialogue styles per color** — Default Dialogue / Highlighter
 - **24 ready-to-import SillyTavern UI theme JSON files**
-- Original Notion release: **v2.1** (theme content preserved)
+- Original Notion release: **v2.1** · Latest maintenance fix: **v2.1.1** (iPad portrait top-bar width)
 
 > This repository distributes **UI theme JSON files**, not a SillyTavern extension. Import a JSON under **User Settings → UI Theme → Import a theme file**.
 
@@ -168,7 +168,7 @@ The original release warmly thanks the creators/contributors behind **Persistent
 - **12가지 색상** — 라이트 7종, 다크 5종
 - **색상마다 2가지 대사 스타일** — 기본 대사 / 형광펜
 - **총 24개의 SillyTavern UI 테마 JSON**
-- 노션 공개본 **v2.1**을 내용 변경 없이 옮긴 최초 배포
+- 노션 공개본 **v2.1** 기반의 **v2.1.1** 유지보수판 (아이패드 세로 모드 상단바 너비 수정)
 
 이 저장소는 **실리태번 확장 프로그램이 아니라 UI 테마 파일 모음**이야. 확장 설치창에 GitHub 주소를 입력하는 방식이 아니라 **사용자 설정 → UI 테마 → 테마 파일 가져오기**를 사용해 줘.
 
